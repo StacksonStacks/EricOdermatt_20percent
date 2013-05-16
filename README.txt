@@ -51,3 +51,4 @@ to work on my heatmappper function. This project is doable and I made some defin
 this week. I haven't been pushing because I saved it somewhere wrong. I'll push everything 
 next week. I think I'll be done with the project by week 5. Goal for week 4 is to get input
 and heatmapping working
+Week X: I have been working on this I jjus have been to lazy to make updates
